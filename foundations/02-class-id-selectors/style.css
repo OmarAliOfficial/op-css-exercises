@@ -1,0 +1,18 @@
+.one, .three, .five{
+    background-color: lightcoral;
+}
+
+.three{
+    font-size: 25px;
+}
+
+#two{
+    color: blue;
+    font-size: 35px;
+}
+
+#four{
+    font-size: 22px;
+    font-weight: 600;
+    background-color: greenyellow;
+}
