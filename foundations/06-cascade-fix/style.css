@@ -5,16 +5,16 @@ body {
 .para,
 .small-para {
   color: hsl(0, 0%, 0%);
-  font-weight: 800;
 }
 
 .small-para {
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 1200;
 }
 
 .para {
   font-size: 22px;
+  font-weight: 1200;
 }
 
 .confirm {
@@ -38,5 +38,6 @@ body {
 div.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
-  font-weight: 100;
+  font-weight: 1200;
 }
+
